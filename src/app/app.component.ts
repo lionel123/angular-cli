@@ -8,7 +8,7 @@ import { ChartsModule } from 'ng2-charts';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent implements OnInit {
-  title = 'app works!';
+  title = 'app work!';
 
   pieChartType: string = 'pie';
   pieChartLabels:string[] = ['a', 'b', 'c'];
